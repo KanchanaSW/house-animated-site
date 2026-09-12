@@ -2,6 +2,7 @@ node_modules
 .next
 out
 .netlify
+.wrangler
 .tmp-frames
 .DS_Store
 *.log
